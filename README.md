@@ -3,5 +3,4 @@
 
 ## 🛠️ Setup  
 1. Clone the repo.  
-2. Open `index.html` in a browser.  
-# todo-list
+2. Open `index.html` in a browser. 
